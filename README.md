@@ -5,6 +5,7 @@
 This project is a Power BI Super Market Sales Analysis Dashboard that provides insights into sales performance across different categories, regions, and time periods. The dashboard visualizes key metrics such as total sales, profit, orders, ship days, and sales forecasts to help businesses make data-driven decisions.
 
 *Task 1- Create a sale data analysis of any commercial store.
+-:Task-1/Task 1-Sales Analysis Dashoard.pdf
 
 🔥 Features:
 
