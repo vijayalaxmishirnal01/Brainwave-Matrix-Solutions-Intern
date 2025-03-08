@@ -25,3 +25,8 @@ Sales Forecasts:
 *Shipping Performance Analysis 🚚
 
 *15-Day Sales Forecast 🔮
+
+Task 2: Social Media Sentiment Analysis
+Analyze social media data (e.g., Twitter) to understand public sentiment towards specific topics, products, or events. Use natural language processing (NLP) techniques to preprocess text data, extract sentiment scores, and visualize sentiment trends over time.
+
+Google Colab Link:-https://colab.research.google.com/drive/1ofX3Kp2UaY5LL-izaXC1QmSU2ba1ZO3O?usp=drive_link
